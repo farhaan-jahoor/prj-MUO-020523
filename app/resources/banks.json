@@ -1,0 +1,38 @@
+[
+    {
+        "bankName": "Intesa San Paolo",
+        "bankLogo": "https://www.mutuiamo.it/logoimgs/banksLogos/logo-intesa-sanpaolo.svg",
+        "loanType": "Mutuo in tasca",
+        "tasso": 3.5,
+        "tags": [
+            { "key": "TAEG", "value": "5%" }
+        ]
+    },
+    {
+        "bankName": "BNL",
+        "bankLogo": "https://www.mutuiamo.it/logoimgs/banksLogos/logo-bnl.svg",
+        "loanType": "BNL Giovani Home",
+        "tasso": 5,
+        "tags": [
+            { "key": "TAEG", "value": "10%" }
+        ]
+    },
+    {
+        "bankName": "Crèdit Agricole",
+        "bankLogo": "https://www.mutuiamo.it/logoimgs/banksLogos/logo-credit-agricole.svg",
+        "loanType": "Mutuo Giovani Crèdit Agricole con CPI Vita",
+        "tasso": 4,
+        "tags": [
+            { "key": "TAEG", "value": "5%" }
+        ]
+    },
+    {
+        "bankName": "CheBanca!",
+        "bankLogo": "https://www.mutuiamo.it/logoimgs/banksLogos/logo-chebanca.svg",
+        "tasso": 3.81,
+        "loanType": "Mutuo semplice",
+        "tags": [
+            { "key": "TAEG", "value": "5%" }
+        ]
+    }
+]
